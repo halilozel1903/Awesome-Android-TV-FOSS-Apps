@@ -31,6 +31,7 @@
   - [Notifications](#notifications)
   - [Screen Saver](#screen-saver)
   - [DNS Proxy](#dns-proxy)
+  - [VPN](#vpn)
   - [Capturing](#capturing)
   - [System Utilities](#system-utilities)
 - [Contributing](#contributing)
