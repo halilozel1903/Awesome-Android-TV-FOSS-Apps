@@ -74,6 +74,7 @@
 
 - **SmartTube:** An advanced (YouTube) player for Android TVs and TV boxes [[Source](https://github.com/yuliskov/smarttube)] [[Website](https://smarttubeapp.github.io/)]
 - **NewPipe:** Lightweight YouTube frontend [[Source](https://github.com/TeamNewPipe/NewPipe)] [[Website](https://newpipe.net/)] [[F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)]
+- **LibreTube:** An alternative frontend for YouTube, for Android [[Source](https://github.com/libre-tube/LibreTube)] [[F-Droid](https://f-droid.org/packages/com.github.libretube/)]
 - **Tubular:** A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike [[Source](https://github.com/polymorphicshade/Tubular)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)]
 - **Clipious:** Client for Invidious, the privacy focused YouTube front end [[Source](https://github.com/lamarios/clipious)] [[F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious/)]
 
@@ -89,6 +90,7 @@
 ### Streaming - Self-hosted
 
 - **Jellyfin:** A Free Software Media System that puts you in control of managing and streaming your media [[Source](https://github.com/jellyfin/jellyfin-androidtv)] [[Website](https://jellyfin.org/)] [[F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv/)] [[Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)]
+- **DUNE:** Dune is a Jellyfin Android TV Client [[Source](https://github.com/Sam42a/DUNE)]
 - **DSub:** Connect to your Subsonic server and listen to your music wherever you go [[Source](https://github.com/daneren2005/Subsonic)] [[F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub)] [[Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub)] 🖱️
 
 ### Streaming - Twitch
@@ -99,7 +101,7 @@
 ### Streaming - Other
 
 - **Moonlight:** Play games from your PC on Android [[Source](https://github.com/moonlight-stream/moonlight-android)] [[Website](https://moonlight-stream.org/)] [[F-Droid](https://f-droid.org/packages/com.limelight/)] [[Google Play](https://play.google.com/store/apps/details?id=com.limelight)]
-- **M3U:** Stream media player on Android devices [[Source](https://github.com/realOxy/M3UAndroid)] [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
+- **M3U:** Stream media player on Android devices [[Source](https://github.com/realOxy/M3UAndroid)]
 - **FCast:** An open-source protocol designed to open wireless audio and video streaming to everybody. [[Source](https://gitlab.futo.org/videostreaming/fcast)] [[Website](https://fcast.org/)] [[Google Play](https://play.google.com/store/apps/details?id=com.futo.fcast.receiver.playstore)]
 - **UniTV:** A Flutter-based application that allows users to watch TV channels from any country. [[Source](https://github.com/VinsonGuo/flutter_iptv_client)] [[Google Play](https://play.google.com/store/apps/details?id=com.vinsonguo.flutter_iptv_client)]
 
@@ -109,7 +111,7 @@
 - **Amaze:** Simple and attractive Material Design file manager for Android [[Source](https://github.com/TeamAmaze/AmazeFileManager)] [[Website](https://teamamaze.xyz/)] [[F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)] [[Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager)]
 - **Material Files:** Material Design file manager for Android [[Source](https://github.com/zhanghai/MaterialFiles)] [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)] [[Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)] 📺
 - **OI File Manager:** OI File Manager [[Source](https://github.com/openintents/filemanager)] [[F-Droid](https://f-droid.org/en/packages/org.openintents.filemanager/)] [[Google Play](https://play.google.com/store/apps/details?id=org.openintents.filemanager)]
-- **FireFiles:** FireFiles is based on AnExplorer. It is a light-weight but powerful file manager for everything that runs on Android OS [[Source](https://github.com/gigabytedevelopers/FireFiles/issues)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gigabytedevelopersinc.app.explorer)]] [[Google Play](https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.explorer)] 🛑
+- **FireFiles:** FireFiles is based on AnExplorer. It is a light-weight but powerful file manager for everything that runs on Android OS [[Source](https://github.com/gigabytedevelopers/FireFiles/issues)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gigabytedevelopersinc.app.explorer)] [[Google Play](https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.explorer)] 🛑
 
 ### Download Manager
 
@@ -138,7 +140,7 @@
 
 ### DNS Proxy
 
-- **InviZible Pro:** Comprehensive application for on-line privacy and security [[Source](https://github.com/Gedsh/InviZible)] [[Website](https://invizible.net)] [[F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)] [[Google Play](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)]
+- **InviZible Pro:** Comprehensive application for on-line privacy and security [[Source](https://github.com/Gedsh/InviZible)] [[Website](https://invizible.net)] [[F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)] [[Google Play](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.stable)]
 - **Intra:** An experimental tool that allows you to test new DNS-over-HTTPS services on Android [[Source](https://github.com/Jigsaw-Code/Intra)] [[F-Droid](https://f-droid.org/en/packages/app.intra/)] [[Google Play](https://play.google.com/store/apps/details?id=app.intra)] 📺🖱️
 
 ### VPN
