@@ -69,6 +69,8 @@
 - **Nova Player:** Video player for local/network content with subtitle/metadata download support [[Source](https://github.com/nova-video-player/aos-AVP)] [[F-Droid](https://f-droid.org/packages/org.courville.nova)] [[Google Play](https://play.google.com/store/apps/details?id=org.courville.nova)]
 - **Fermata:** a free, open source audio, video and TV player with a simple and intuitive interface [[Source](https://github.com/AndreyPavlenko/Fermata)] [[Google Play](https://play.google.com/store/apps/details?id=me.aap.fermata)]
 - **Just (Video) Player:** Simple video player based on ExoPlayer library [[Source](https://github.com/moneytoo/Player)] [[F-Droid](https://f-droid.org/packages/com.brouken.player/)] [[Google Play](https://play.google.com/store/apps/details?id=com.brouken.player)]
+- **Auxio:** A simple, rational music player for android [[Source](https://github.com/OxygenCobalt/Auxio)] [[F-Droid](https://f-droid.org/packages/org.oxycblt.auxio/)]
+- **Vanilla Music:** Vanilla Music Player for Android [[Source](https://github.com/vanilla-music/vanilla)] [[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/)]
 
 ### Streaming - YouTube
 
